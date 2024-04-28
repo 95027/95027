@@ -15,8 +15,9 @@
   I'm a passionate Full Stack Developer with a love for creating elegant solutions to complex problems. My journey in the tech world has been fueled by a deep curiosity and a desire to learn and grow every day. I specialize in building scalable web applications and enjoy working with cutting-edge technologies to bring ideas to life.
 </p>
 -->
+<!--
 <h2 align="center">💻 Skills</h2>
-
+-->
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
