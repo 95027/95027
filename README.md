@@ -31,3 +31,12 @@
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="40">
 
 </p>
+
+<br/>
+
+<p align="center">
+<a href="https://github.com/95027">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=95027&show_icons=true&theme=algolia&include_all_commits=true&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=95027&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
