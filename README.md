@@ -2,9 +2,10 @@
 
 <p align="center">
   <samp>
-    🚀 Full Stack Developer | 💻 Open Source Contributor | 🎨 UI/UX Enthusiast
+    🚀 Full Stack Developer | 🔗 API Developer | ☁️ AWS Cloud & Server Deployment  
   </samp>
 </p>
+
 
 <p align="center">
   <img src="full-stack.gif" width="300">
@@ -20,16 +21,20 @@
   <img src="https://img.shields.io/badge/-Livewire-4E56A6?style=flat-square&logo=livewire&logoColor=white" height="30">
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="30">
   <img src="https://img.shields.io/badge/-Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/-AJAX-FFCA28?style=flat-square&logo=ajax&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" height="30">
+
+  <!-- <img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" height="30"> -->
+  <!-- <img src="https://img.shields.io/badge/-AJAX-FFCA28?style=flat-square&logo=ajax&logoColor=white" height="30"> -->
+  <!-- <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" height="30"> -->
+
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" height="30">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" height="30">
+  <!-- <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="30"> -->
+  <!-- <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" height="30"> -->
+  <!-- <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" height="30"> -->
+  <!-- <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" height="30"> -->
+
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" height="30">
 
 </p>
 
